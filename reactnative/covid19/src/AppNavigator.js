@@ -34,7 +34,7 @@ const AppNavigator = () => (
         }}
       />
       <Tabs.Screen
-        name="Statstics"
+        name="Estatísticas"
         component={Stats}
         options={{
           tabBarIcon: () => {
@@ -43,7 +43,7 @@ const AppNavigator = () => (
         }}
       />
       <Tabs.Screen
-        name="Chatbot"
+        name="Pergunta aqui"
         component={Chatbot}
         options={{
           tabBarIcon: () => {

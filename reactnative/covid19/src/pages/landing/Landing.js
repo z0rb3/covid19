@@ -20,22 +20,13 @@ export class Landing extends React.Component {
           <View style={styles.skewContainerTwo} />
           <View style={styles.textContainer}>
             <Text style={styles.title}>Covid 19</Text>
-            <Text style={styles.subTitle}>Are you feeling sick?</Text>
+            <Text style={styles.subTitle}>Estás a sentir-te doente?</Text>
             <Text style={styles.subtext}>
-              If you feel sick with any of the Covid-19 symptoms, please call or
-              message immediately.
+              Se sentes algum dos sintomas da COVID-19, liga para o 111.
             </Text>
-            <View style={styles.btnContainer}>
-              <View style={styles.btn}>
-                <Text style={styles.btnText}>Call</Text>
-              </View>
-              <View style={styles.btn}>
-                <Text style={styles.btnText}>SMS</Text>
-              </View>
-            </View>
           </View>
           <View style={styles.prevContainer}>
-            <Text style={styles.prevTitle}>How can I stay Safe?</Text>
+            <Text style={styles.prevTitle}>Como fico seguro?</Text>
             <View
               style={{
                 flexDirection: 'row',
@@ -51,7 +42,7 @@ export class Landing extends React.Component {
                   loop
                 />
                 <Text style={styles.prevIconText}>
-                  Regularly wash your hands
+                  Lavar regularmente as mãos
                 </Text>
               </View>
               <View style={styles.prevIconContainer}>
@@ -61,7 +52,7 @@ export class Landing extends React.Component {
                   autoPlay
                   loop
                 />
-                <Text style={styles.prevIconText}>Always wear a mask</Text>
+                <Text style={styles.prevIconText}>Usar máscara</Text>
               </View>
               <View style={styles.prevIconContainer}>
                 <LottieView
@@ -70,7 +61,7 @@ export class Landing extends React.Component {
                   autoPlay
                   loop
                 />
-                <Text style={styles.prevIconText}>Use hand sanitizer</Text>
+                <Text style={styles.prevIconText}>Higienizar as mãos</Text>
               </View>
               <View style={styles.prevIconContainer}>
                 <LottieView
@@ -79,7 +70,7 @@ export class Landing extends React.Component {
                   autoPlay
                   loop
                 />
-                <Text style={styles.prevIconText}>Social Distancing</Text>
+                <Text style={styles.prevIconText}>Distanciamento Social</Text>
               </View>
             </View>
           </View>

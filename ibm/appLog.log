@@ -5519,3 +5519,975 @@ Success | IonicTopBar | runApp | Tue Apr 14 2020, 21:00:17 GMT+0530 (India Stand
  Info | settingsDB | getByType | Tue Apr 14 2020, 23:03:55 GMT+0530 (India Standard Time) | getByType returned null
  Info | BuilderEditor | saveFile | Tue Apr 14 2020, 23:09:11 GMT+0530 (India Standard Time) | saved file /Users/chethankumar/projects/videos/devworks-1/covid19/reactnative/covid19/src/pages/chatbot/Chatbot.js
  Info | BuilderEditor | saveFile | Tue Apr 14 2020, 23:13:29 GMT+0530 (India Standard Time) | saved file /Users/chethankumar/projects/videos/devworks-1/covid19/reactnative/covid19/src/pages/chatbot/Chatbot.js
+ Info | projectHandler | loadProjectDatabase | Sun May 17 2020, 11:41:04 GMT+0100 (West Africa Standard Time) | Initializing DBs for workspace  /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19
+ Info | datasourceDB | init | Sun May 17 2020, 11:41:04 GMT+0100 (West Africa Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Sun May 17 2020, 11:41:04 GMT+0100 (West Africa Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Sun May 17 2020, 11:41:04 GMT+0100 (West Africa Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Sun May 17 2020, 11:41:04 GMT+0100 (West Africa Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Sun May 17 2020, 11:41:04 GMT+0100 (West Africa Standard Time) | App DB initialized
+ Info | settingsDB | init | Sun May 17 2020, 11:41:04 GMT+0100 (West Africa Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Sun May 17 2020, 11:41:04 GMT+0100 (West Africa Standard Time) | Initialized all the DBs
+ Error | ImportExportConfig | importConfiguration | Sun May 17 2020, 11:41:29 GMT+0100 (West Africa Standard Time) | Failed to import project configuration
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:173593
+    at _rejected (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:864:24)
+    at /Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:890:30
+    at Promise.when (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:1142:31)
+    at Promise.promise.promiseDispatch (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:808:41)
+    at /Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:624:44
+    at runSingle (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:137:13)
+    at flush (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:125:13)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11) Info | projectHandler | loadProjectDatabase | Sun May 17 2020, 11:41:46 GMT+0100 (West Africa Standard Time) | Initializing DBs for workspace  /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19
+ Info | datasourceDB | init | Sun May 17 2020, 11:41:46 GMT+0100 (West Africa Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Sun May 17 2020, 11:41:46 GMT+0100 (West Africa Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Sun May 17 2020, 11:41:46 GMT+0100 (West Africa Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Sun May 17 2020, 11:41:46 GMT+0100 (West Africa Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Sun May 17 2020, 11:41:46 GMT+0100 (West Africa Standard Time) | App DB initialized
+ Info | settingsDB | init | Sun May 17 2020, 11:41:46 GMT+0100 (West Africa Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Sun May 17 2020, 11:41:46 GMT+0100 (West Africa Standard Time) | Initialized all the DBs
+ Error | ImportExportConfig | importConfiguration | Sun May 17 2020, 11:42:12 GMT+0100 (West Africa Standard Time) | Failed to import project configuration
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:173593
+    at _rejected (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:864:24)
+    at /Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:890:30
+    at Promise.when (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:1142:31)
+    at Promise.promise.promiseDispatch (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:808:41)
+    at /Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:624:44
+    at runSingle (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:137:13)
+    at flush (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:125:13)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11) Info | projectHandler | loadProjectDatabase | Sun May 17 2020, 19:07:16 GMT+0100 (West Africa Standard Time) | Initializing DBs for workspace  /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19
+ Info | datasourceDB | init | Sun May 17 2020, 19:07:16 GMT+0100 (West Africa Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Sun May 17 2020, 19:07:16 GMT+0100 (West Africa Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Sun May 17 2020, 19:07:16 GMT+0100 (West Africa Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Sun May 17 2020, 19:07:16 GMT+0100 (West Africa Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Sun May 17 2020, 19:07:16 GMT+0100 (West Africa Standard Time) | App DB initialized
+ Info | settingsDB | init | Sun May 17 2020, 19:07:16 GMT+0100 (West Africa Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Sun May 17 2020, 19:07:16 GMT+0100 (West Africa Standard Time) | Initialized all the DBs
+ Error | ImportExportConfig | importConfiguration | Sun May 17 2020, 19:07:41 GMT+0100 (West Africa Standard Time) | Failed to import project configuration
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:173593
+    at _rejected (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:864:24)
+    at /Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:890:30
+    at Promise.when (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:1142:31)
+    at Promise.promise.promiseDispatch (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:808:41)
+    at /Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:624:44
+    at runSingle (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:137:13)
+    at flush (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:125:13)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11) Error | ServerSettings | changeServer | Sun May 17 2020, 19:07:54 GMT+0100 (West Africa Standard Time) | Failed to create app on server. Reason: TypeError: Cannot read property 'studioUtils' of null
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1841:3915
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5643:2731
+    at a (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5643:6183)
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5643:5289
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1841:3888 Error | ServerSettings | changeServer | Sun May 17 2020, 19:07:59 GMT+0100 (West Africa Standard Time) | Failed to create app on server. Reason: TypeError: Cannot read property 'studioUtils' of null
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1841:3915
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5643:2731
+    at a (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5643:6183)
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5643:5289
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1841:3888 Error | IonicTopBar | runApp | Sun May 17 2020, 19:08:55 GMT+0100 (West Africa Standard Time) | Command `run-ios` unrecognized. Make sure that you have run `npm install` and that you are inside a react-native project.
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:4317:1178)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | runApp | Sun May 17 2020, 19:08:55 GMT+0100 (West Africa Standard Time) | Error: Preview on Simulator failed.
+ Error | IonicTopBar | runApp | Sun May 17 2020, 19:09:11 GMT+0100 (West Africa Standard Time) | Command `run-ios` unrecognized. Make sure that you have run `npm install` and that you are inside a react-native project.
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:4317:1178)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | runApp | Sun May 17 2020, 19:09:11 GMT+0100 (West Africa Standard Time) | Error: Preview on Simulator failed.
+ Error | IonicTopBar | runApp | Sun May 17 2020, 19:10:21 GMT+0100 (West Africa Standard Time) | Command `run-ios` unrecognized. Make sure that you have run `npm install` and that you are inside a react-native project.
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:4317:1178)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | runApp | Sun May 17 2020, 19:10:21 GMT+0100 (West Africa Standard Time) | Error: Preview on Simulator failed.
+ Error | ServerSettings | changeServer | Sun May 17 2020, 19:16:10 GMT+0100 (West Africa Standard Time) | Failed to create app on server. Reason: TypeError: Cannot read property 'studioUtils' of null
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1841:3915
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5643:2731
+    at a (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5643:6183)
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5643:5289
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1841:3888 Error | IonicTopBar | runApp | Sun May 17 2020, 19:16:45 GMT+0100 (West Africa Standard Time) | error React Native CLI uses autolinking for native dependencies, but the following modules are linked manually: 
+  - react-native-vector-icons (to unlink run: "react-native unlink react-native-vector-icons")
+This is likely happening when upgrading React Native from below 0.60 to 0.60 or above. Going forward, you can unlink this dependency via "react-native unlink <dependency>" and it will be included in your app automatically. If a library isn't compatible with autolinking, disregard this message and notify the library maintainers.
+Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:4317:1178)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | runApp | Sun May 17 2020, 19:16:45 GMT+0100 (West Africa Standard Time) | info Found Xcode workspace "covid19.xcworkspace"
+
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:16:46 GMT+0100 (West Africa Standard Time) | info Launching iPhone 11 (iOS 13.4)
+
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:16:55 GMT+0100 (West Africa Standard Time) | info Building (using "xcodebuild -workspace covid19.xcworkspace -configuration Debug -scheme covid19 -destination id=4CFE19FB-3EB8-41FE-B584-F0D7CDB3D1D9")
+
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:16:56 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:16:56 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:16:57 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:16:57 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:16:59 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:17:01 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:17:01 GMT+0100 (West Africa Standard Time) | ....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:17:01 GMT+0100 (West Africa Standard Time) | 
+
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:17:01 GMT+0100 (West Africa Standard Time) | Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -workspace covid19.xcworkspace -configuration Debug -scheme covid19 -destination id=4CFE19FB-3EB8-41FE-B584-F0D7CDB3D1D9
+
+note: Using new build system
+note: Building targets in parallel
+note: Planning build
+note: Constructing build description
+error: /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/ios/Pods/Target Support Files/Pods-covid19/Pods-covid19.debug.xcconfig: unable to open file (in target "covid19" in project "covid19") (in target 'covid19' from project 'covid19')
+error: /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/ios/Pods/Target Support Files/Pods-covid19/Pods-covid19.debug.xcconfig: unable to open file (in target "covid19" in project "covid19") (in target 'covid19' from project 'covid19')
+error: /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/ios/Pods/Target Support Files/Pods-covid19/Pods-covid19.debug.xcconfig: unable to open file (in target "covid19" in project "covid19") (in target 'covid19' from project 'covid19')
+error: /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/ios/Pods/Target Support Files/Pods-covid19/Pods-covid19.debug.xcconfig: unable to open file (in target "covid19" in project "covid19") (in target 'covid19' from project 'covid19')
+
+
+2020-05-17 19:17:01.220 XCBBuildService[6524:67780] Failed to remove: /Users/paulopinto/Library/Developer/Xcode/DerivedData/covid19-fqfprzacdjxnzxgbnohpvqscydua/Build/Intermediates.noindex/XCBuildData/d4f4aded165a7d198ea57f2b789be160-desc.xcbuild: unlink(/Users/paulopinto/Library/Developer/Xcode/DerivedData/covid19-fqfprzacdjxnzxgbnohpvqscydua/Build/Intermediates.noindex/XCBuildData/d4f4aded165a7d198ea57f2b789be160-desc.xcbuild): No such file or directory (2)
+** BUILD FAILED **
+
+
+
+ Error | IonicTopBar | runApp | Sun May 17 2020, 19:17:01 GMT+0100 (West Africa Standard Time) | error Failed to build iOS project. We ran "xcodebuild" command but it exited with error code 65. To debug build logs further, consider building your app with Xcode.app, by opening covid19.xcworkspace. Run CLI with --verbose flag for more details.
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:4317:1178)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | runApp | Sun May 17 2020, 19:17:01 GMT+0100 (West Africa Standard Time) | Error: Preview on Simulator failed.
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:18:01 GMT+0100 (West Africa Standard Time) | info Found Xcode workspace "covid19.xcworkspace"
+
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:18:02 GMT+0100 (West Africa Standard Time) | info Building (using "xcodebuild -workspace covid19.xcworkspace -configuration Debug -scheme covid19 -destination id=4CFE19FB-3EB8-41FE-B584-F0D7CDB3D1D9")
+
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:18:03 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:18:04 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:18:04 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:18:05 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:18:05 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:18:05 GMT+0100 (West Africa Standard Time) | ....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 19:18:05 GMT+0100 (West Africa Standard Time) | 
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -workspace covid19.xcworkspace -configuration Debug -scheme covid19 -destination id=4CFE19FB-3EB8-41FE-B584-F0D7CDB3D1D9
+
+note: Using new build system
+note: Building targets in parallel
+note: Planning build
+note: Constructing build description
+error: /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/ios/Pods/Target Support Files/Pods-covid19/Pods-covid19.debug.xcconfig: unable to open file (in target "covid19" in project "covid19") (in target 'covid19' from project 'covid19')
+error: /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/ios/Pods/Target Support Files/Pods-covid19/Pods-covid19.debug.xcconfig: unable to open file (in target "covid19" in project "covid19") (in target 'covid19' from project 'covid19')
+error: /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/ios/Pods/Target Support Files/Pods-covid19/Pods-covid19.debug.xcconfig: unable to open file (in target "covid19" in project "covid19") (in target 'covid19' from project 'covid19')
+error: /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/ios/Pods/Target Support Files/Pods-covid19/Pods-covid19.debug.xcconfig: unable to open file (in target "covid19" in project "covid19") (in target 'covid19' from project 'covid19')
+
+
+2020-05-17 19:18:05.305 XCBBuildService[6564:69541] Failed to remove: /Users/paulopinto/Library/Developer/Xcode/DerivedData/covid19-fqfprzacdjxnzxgbnohpvqscydua/Build/Intermediates.noindex/XCBuildData/99e7ffeb08be7009792956ba7b6909fe-desc.xcbuild: unlink(/Users/paulopinto/Library/Developer/Xcode/DerivedData/covid19-fqfprzacdjxnzxgbnohpvqscydua/Build/Intermediates.noindex/XCBuildData/99e7ffeb08be7009792956ba7b6909fe-desc.xcbuild): No such file or directory (2)
+** BUILD FAILED **
+
+
+
+ Error | IonicTopBar | runApp | Sun May 17 2020, 19:18:05 GMT+0100 (West Africa Standard Time) | error Failed to build iOS project. We ran "xcodebuild" command but it exited with error code 65. To debug build logs further, consider building your app with Xcode.app, by opening covid19.xcworkspace. Run CLI with --verbose flag for more details.
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:4317:1178)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | runApp | Sun May 17 2020, 19:18:05 GMT+0100 (West Africa Standard Time) | Error: Preview on Simulator failed.
+ Info | projectHandler | loadProjectDatabase | Sun May 17 2020, 21:24:54 GMT+0100 (West Africa Standard Time) | Initializing DBs for workspace  /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19
+ Info | datasourceDB | init | Sun May 17 2020, 21:24:54 GMT+0100 (West Africa Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Sun May 17 2020, 21:24:54 GMT+0100 (West Africa Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Sun May 17 2020, 21:24:54 GMT+0100 (West Africa Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Sun May 17 2020, 21:24:54 GMT+0100 (West Africa Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Sun May 17 2020, 21:24:54 GMT+0100 (West Africa Standard Time) | App DB initialized
+ Info | settingsDB | init | Sun May 17 2020, 21:24:54 GMT+0100 (West Africa Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Sun May 17 2020, 21:24:54 GMT+0100 (West Africa Standard Time) | Initialized all the DBs
+ Error | ImportExportConfig | importConfiguration | Sun May 17 2020, 21:25:21 GMT+0100 (West Africa Standard Time) | Failed to import project configuration
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:173593
+    at _rejected (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:864:24)
+    at /Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:890:30
+    at Promise.when (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:1142:31)
+    at Promise.promise.promiseDispatch (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:808:41)
+    at /Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:624:44
+    at runSingle (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:137:13)
+    at flush (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:125:13)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11) Info | DependenciesManagement | onClick | Sun May 17 2020, 21:25:53 GMT+0100 (West Africa Standard Time) | 
+> fsevents@1.2.12 install /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/node_modules/fsevents
+> node-gyp rebuild
+
+
+ Info | DependenciesManagement | onClick | Sun May 17 2020, 21:25:58 GMT+0100 (West Africa Standard Time) |   SOLINK_MODULE(target) Release/.node
+
+ Info | DependenciesManagement | onClick | Sun May 17 2020, 21:25:58 GMT+0100 (West Africa Standard Time) |   CXX(target) Release/obj.target/fse/fsevents.o
+
+ Error | DependenciesManagement | onClick | Sun May 17 2020, 21:26:00 GMT+0100 (West Africa Standard Time) | In file included from ../fsevents.cc:6:
+In file included from ../../nan/nan.h:2884:
+../../nan/nan_typedarray_contents.h:34:43: warning: 'GetContents' is deprecated: Use GetBackingStore. See http://crbug.com/v8/9908. [-Wdeprecated-declarations]
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1386:6914)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | DependenciesManagement | onClick | Sun May 17 2020, 21:26:00 GMT+0100 (West Africa Standard Time) |       data   = static_cast<char*>(buffer->GetContents().Data()) + byte_offset;
+                                          ^
+/Users/paulopinto/Library/Caches/node-gyp/14.2.0/include/node/v8.h:5202:3: note: 'GetContents' has been explicitly marked deprecated here
+  V8_DEPRECATE_SOON("Use GetBackingStore. See http://crbug.com/v8/9908.")
+  ^
+/Users/paulopinto/Library/Caches/node-gyp/14.2.0/include/node/v8config.h:402:39: note: expanded from macro 'V8_DEPRECATE_SOON'
+# define V8_DEPRECATE_SOON(message) [[deprecated(message)]]
+                                      ^
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1386:6914)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | DependenciesManagement | onClick | Sun May 17 2020, 21:26:01 GMT+0100 (West Africa Standard Time) | 1 warning generated.
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1386:6914)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | DependenciesManagement | onClick | Sun May 17 2020, 21:26:02 GMT+0100 (West Africa Standard Time) |   SOLINK_MODULE(target) Release/fse.node
+
+ Error | DependenciesManagement | onClick | Sun May 17 2020, 21:26:02 GMT+0100 (West Africa Standard Time) | npm WARN @react-native-community/eslint-config@0.0.5 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1386:6914)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | DependenciesManagement | onClick | Sun May 17 2020, 21:26:02 GMT+0100 (West Africa Standard Time) | npm WARN @react-navigation/bottom-tabs@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/eslint-plugin@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/experimental-utils@1.13.0 requires a peer of eslint@* but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/parser@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN babel-eslint@10.0.1 requires a peer of eslint@>= 4.12.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-eslint-comments@3.1.2 requires a peer of eslint@>=4.19.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-flowtype@2.50.3 requires a peer of eslint@>=2.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-jest@22.4.1 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+npm WARN
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1386:6914)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | DependenciesManagement | onClick | Sun May 17 2020, 21:26:02 GMT+0100 (West Africa Standard Time) |  eslint-plugin-react@7.12.4 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-hooks@1.7.0 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-native@3.6.0 requires a peer of eslint@^3.17.0 || ^4 || ^5 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1386:6914)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | DependenciesManagement | onClick | Sun May 17 2020, 21:26:02 GMT+0100 (West Africa Standard Time) | + @react-native-community/masked-view@0.1.6
+added 70 packages from 33 contributors, updated 1 package and audited 980 packages in 17.759s
+
+ Info | DependenciesManagement | onClick | Sun May 17 2020, 21:26:03 GMT+0100 (West Africa Standard Time) | 
+22 packages are looking for funding
+  run `npm fund` for details
+
+
+ Info | DependenciesManagement | onClick | Sun May 17 2020, 21:26:03 GMT+0100 (West Africa Standard Time) | found 1 low severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+ Error | DependenciesManagement | onClick | Sun May 17 2020, 21:26:04 GMT+0100 (West Africa Standard Time) |     [33mWARNING: CocoaPods requires your terminal to be using UTF-8 encoding.
+    Consider adding the following to ~/.profile:
+
+    export LANG=en_US.UTF-8
+    [0m
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1386:6914)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | DependenciesManagement | onClick | Sun May 17 2020, 21:26:08 GMT+0100 (West Africa Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNSVG, RNScreens, RNVectorIcons, lottie-react-native, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+Fetching podspec for `DoubleConversion` from `../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec`
+
+ Info | DependenciesManagement | onClick | Sun May 17 2020, 21:26:08 GMT+0100 (West Africa Standard Time) | Fetching podspec for `Folly` from `../node_modules/react-native/third-party-podspecs/Folly.podspec`
+
+ Info | DependenciesManagement | onClick | Sun May 17 2020, 21:26:08 GMT+0100 (West Africa Standard Time) | Fetching podspec for `glog` from `../node_modules/react-native/third-party-podspecs/glog.podspec`
+
+ Info | DependenciesManagement | onClick | Sun May 17 2020, 21:26:09 GMT+0100 (West Africa Standard Time) | [!] CocoaPods could not find compatible versions for pod "ReactCommon/jscallinvoker":
+  In snapshot (Podfile.lock):
+    ReactCommon/jscallinvoker (from `../node_modules/react-native/ReactCommon`)
+
+  In Podfile:
+    ReactCommon/jscallinvoker (from `../node_modules/react-native/ReactCommon`)
+
+None of your spec sources contain a spec satisfying the dependency: `ReactCommon/jscallinvoker (from `../node_modules/react-native/ReactCommon`)`.
+
+You have either:
+ * out-of-date source repos which you can update with `pod repo update` or with `pod install --repo-update`.
+ * mistyped the name or version.
+ * not added the source repo that hosts the Podspec to your Podfile.
+
+Success | DependenciesManagement | onClick | Sun May 17 2020, 21:26:09 GMT+0100 (West Africa Standard Time) | @react-native-community/masked-view installed
+ Error | ServerSettings | changeServer | Sun May 17 2020, 21:26:51 GMT+0100 (West Africa Standard Time) | Failed to create app on server. Reason: TypeError: Cannot read property 'studioUtils' of null
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1841:3915
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5643:2731
+    at a (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5643:6183)
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5643:5289
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1841:3888 Info | IonicTopBar | runApp | Sun May 17 2020, 21:27:47 GMT+0100 (West Africa Standard Time) | info Found Xcode workspace "covid19.xcworkspace"
+
+ Info | IonicTopBar | runApp | Sun May 17 2020, 21:27:48 GMT+0100 (West Africa Standard Time) | info Launching iPhone 11 (iOS 13.4)
+
+ Info | IonicTopBar | runApp | Sun May 17 2020, 21:27:57 GMT+0100 (West Africa Standard Time) | info Building (using "xcodebuild -workspace covid19.xcworkspace -configuration Debug -scheme covid19 -destination id=4CFE19FB-3EB8-41FE-B584-F0D7CDB3D1D9")
+
+ Info | IonicTopBar | runApp | Sun May 17 2020, 21:28:00 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 21:28:00 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 21:28:01 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 21:28:01 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 21:28:01 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 21:28:03 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 21:28:05 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 21:28:05 GMT+0100 (West Africa Standard Time) | ....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 21:28:05 GMT+0100 (West Africa Standard Time) | 
+
+ Info | IonicTopBar | runApp | Sun May 17 2020, 21:28:05 GMT+0100 (West Africa Standard Time) | Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -workspace covid19.xcworkspace -configuration Debug -scheme covid19 -destination id=4CFE19FB-3EB8-41FE-B584-F0D7CDB3D1D9
+
+note: Using new build system
+note: Building targets in parallel
+note: Planning build
+note: Constructing build description
+error: /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/ios/Pods/Target Support Files/Pods-covid19/Pods-covid19.debug.xcconfig: unable to open file (in target "covid19" in project "covid19") (in target 'covid19' from project 'covid19')
+error: /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/ios/Pods/Target Support Files/Pods-covid19/Pods-covid19.debug.xcconfig: unable to open file (in target "covid19" in project "covid19") (in target 'covid19' from project 'covid19')
+error: /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/ios/Pods/Target Support Files/Pods-covid19/Pods-covid19.debug.xcconfig: unable to open file (in target "covid19" in project "covid19") (in target 'covid19' from project 'covid19')
+error: /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/ios/Pods/Target Support Files/Pods-covid19/Pods-covid19.debug.xcconfig: unable to open file (in target "covid19" in project "covid19") (in target 'covid19' from project 'covid19')
+
+
+2020-05-17 21:28:00.875 xcodebuild[15277:217359]  DTDeviceKit: deviceType from 0e2c548b82893f32371506058a46953bba4a271b was NULL
+2020-05-17 21:28:00.976 xcodebuild[15277:217359]  DTDeviceKit: deviceType from 0e2c548b82893f32371506058a46953bba4a271b was NULL
+2020-05-17 21:28:01.639 xcodebuild[15277:217367]  DTDeviceKit: deviceType from 00008006-0004F5D11E0A002E was NULL
+2020-05-17 21:28:01.793 xcodebuild[15277:217242] [MT] DTDeviceKit: deviceType from 00008006-0004F5D11E0A002E was NULL
+2020-05-17 21:28:01.797 xcodebuild[15277:217242] [MT] DTDeviceKit: deviceType from 00008006-0004F5D11E0A002E was NULL
+2020-05-17 21:28:05.376 xcodebuild[15277:217367]  DTDeviceKit: Failed to mount DDI from '<DVTFilePath:0x7ffbbb648d40:'/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/DeviceSupport/6.2/DeveloperDiskImage.dmg'>', error=-402653035: Error Domain=com.apple.dtdevicekit Code=806 "Failed to prepare device for development." UserInfo={AssociatedMobileDeviceFunction=AMDeviceMountImage, NSUnderlyingError=0x7ffbbb22d250 {Error Domain=com.apple.dt.MobileDeviceErrorDomain Code=-402653035 "The device rejected the pairing attempt." UserInfo={MobileDeviceErrorCode=(0xE8000095), com.apple.dtdevicekit.stacktrace=(
+	0   DTDeviceKitBase                     0x00000001136fc81a DTDKCreateNSErrorFromAMDErrorCode + 233
+	1   DTDeviceKitBase                     0x000000011373b8a9 -[DTDKMobileDeviceToken _mountDeveloperDiskImage:withError:] + 1034
+	2   DTDeviceKitBase                     0x000000011373c5e7 __58-[DTDKMobileDeviceToken mountDeveloperDiskImageWithError:]_block_invoke + 779
+	3   libdispatch.dylib                   0x00007fff6ee60658 _dispatch_client_callout + 8
+	4   libdispatch.dylib                   0x00007fff6ee6c6ec _dispatch_lane_barrier_sync_invoke_and_complete + 60
+	5   DTDeviceKitBase                     0x000000011373c27a -[DTDKMobileDeviceToken mountDeveloperDiskImageWithError:] + 199
+	6   IDEiOSSupportCore                   0x00000001132b50c9 __28-[DVTiOSDevice attachToken:]_block_invoke_4 + 254
+	7   DVTFoundation                       0x00000001033b87f4 __DVT_CALLING_CLIENT_BLOCK__ + 7
+	8   DVTFoundation                       0x00000001033ba436 __DVTDispatchAsync_block_invoke + 1194
+	9   libdispatch.dylib                   0x00007fff6ee5f6c4 _dispatch_call_block_and_release + 12
+	10  libdispatch.dylib                   0x00007fff6ee60658 _dispatch_client_callout + 8
+	11  libdispatch.dylib                   0x00007fff6ee62818 _dispatch_continuation_pop + 414
+	12  libdispatch.dylib                   0x00007fff6ee61f16 _dispatch_async_redirect_invoke + 703
+	13  libdispatch.dylib                   0x00007fff6ee6e957 _dispatch_root_queue_drain + 326
+	14  libdispatch.dylib                   0x00007fff6ee6f097 _dispatch_worker_thread2 + 92
+	15  libsystem_pthread.dylib             0x00007fff6f0be9f7 _pthread_wqthread + 220
+	16  libsystem_pthread.dylib             0x00007fff6f0bdb77 start_wqthread + 15
+), DVTRadarComponentKey=261622, NSLocalizedDescription=The device rejected the pairing attempt.}}, NSLocalizedRecoverySuggestion=If you are certain that Xcode supports development on this device, try disconnecting and reconnecting the device., NSLocalizedFailure=This operation can fail if the version of the OS on the device is newer than the version of Xcode that is running., DVTRadarComponentKey=487927, NSLocalizedDescription=Failed to prepare device for development.}
+2020-05-17 21:28:05.377 xcodebuild[15277:217367]  iPhoneSupport: 📱<DVTiOSDevice (0x7ffbbb48b1e0), Paulo's iPhone, iPhone, 13.4.1 (17E262), 0e2c548b82893f32371506058a46953bba4a271b> unable to mount DeveloperDiskImage (Error Domain=com.apple.dtdevicekit Code=806 "Failed to prepare device for development." UserInfo={AssociatedMobileDeviceFunction=AMDeviceMountImage, NSUnderlyingError=0x7ffbbb22d250 {Error Domain=com.apple.dt.MobileDeviceErrorDomain Code=-402653035 "The device rejected the pairing attempt." UserInfo={MobileDeviceErrorCode=(0xE8000095), com.apple.dtdevicekit.stacktrace=(
+	0   DTDeviceKitBase                     0x00000001136fc81a DTDKCreateNSErrorFromAMDErrorCode + 233
+	1   DTDeviceKitBase                     0x000000011373b8a9 -[DTDKMobileDeviceToken _mountDeveloperDiskImage:withError:] + 1034
+	2   DTDeviceKitBase                     0x000000011373c5e7 __58-[DTDKMobileDeviceToken mountDeveloperDiskImageWithError:]_block_invoke + 779
+	3   libdispatch.dylib                   0x00007fff6ee60658 _dispatch_client_callout + 8
+	4   libdispatch.dylib                   0x00007fff6ee6c6ec _dispatch_lane_barrier_sync_invoke_and_complete + 60
+	5   DTDeviceKitBase                     0x000000011373c27a -[DTDKMobileDeviceToken mountDeveloperDiskImageWithError:] + 199
+	6   IDEiOSSupportCore                   0x00000001132b50c9 __28-[DVTiOSDevice attachToken:]_block_invoke_4 + 254
+	7   DVTFoundation                       0x00000001033b87f4 __DVT_CALLING_CLIENT_BLOCK__ + 7
+	8   DVTFoundation                       0x00000001033ba436 __DVTDispatchAsync_block_invoke + 1194
+	9   libdispatch.dylib                   0x00007fff6ee5f6c4 _dispatch_call_block_and_release + 12
+	10  libdispatch.dylib                   0x00007fff6ee60658 _dispatch_client_callout + 8
+	11  libdispatch.dylib                   0x00007fff6ee62818 _dispatch_continuation_pop + 414
+	12  libdispatch.dylib                   0x00007fff6ee61f16 _dispatch_async_redirect_invoke + 703
+	13  libdispatch.dylib                   0x00007fff6ee6e957 _dispatch_root_queue_drain + 326
+	14  libdispatch.dylib                   0x00007fff6ee6f097 _dispatch_worker_thread2 + 92
+	15  libsystem_pthread.dylib             0x00007fff6f0be9f7 _pthread_wqthread + 220
+	16  libsystem_pthread.dylib             0x00007fff6f0bdb77 start_wqthread + 15
+), DVTRadarComponentKey=261622, NSLocalizedDescription=The device rejected the pairing attempt.}}, NSLocalizedRecoverySuggestion=If you are certain that Xcode supports development on this device, try disconnecting and reconnecting the device., NSLocalizedFailure=This operation can fail if the version of the OS on the device is newer than the version of Xcode that is running., DVTRadarComponentKey=487927, NSLocalizedDescription=Failed to prepare device for development.})
+** BUILD FAILED **
+
+
+
+ Error | IonicTopBar | runApp | Sun May 17 2020, 21:28:05 GMT+0100 (West Africa Standard Time) | error Failed to build iOS project. We ran "xcodebuild" command but it exited with error code 65. To debug build logs further, consider building your app with Xcode.app, by opening covid19.xcworkspace. Run CLI with --verbose flag for more details.
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:4317:1178)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | runApp | Sun May 17 2020, 21:28:05 GMT+0100 (West Africa Standard Time) | Error: Preview on Simulator failed.
+ Info | FontManager | removeFont | Sun May 17 2020, 21:52:56 GMT+0100 (West Africa Standard Time) | Font has been removed succcessfully
+ Info | projectHandler | loadProjectDatabase | Sun May 17 2020, 21:56:14 GMT+0100 (West Africa Standard Time) | Initializing DBs for workspace  /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19
+ Info | datasourceDB | init | Sun May 17 2020, 21:56:14 GMT+0100 (West Africa Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Sun May 17 2020, 21:56:14 GMT+0100 (West Africa Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Sun May 17 2020, 21:56:14 GMT+0100 (West Africa Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Sun May 17 2020, 21:56:14 GMT+0100 (West Africa Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Sun May 17 2020, 21:56:14 GMT+0100 (West Africa Standard Time) | App DB initialized
+ Info | settingsDB | init | Sun May 17 2020, 21:56:14 GMT+0100 (West Africa Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Sun May 17 2020, 21:56:14 GMT+0100 (West Africa Standard Time) | Initialized all the DBs
+ Info | FontManager | removeFont | Sun May 17 2020, 21:56:27 GMT+0100 (West Africa Standard Time) | Font has been removed succcessfully
+ Error | ImportExportConfig | importConfiguration | Sun May 17 2020, 21:56:40 GMT+0100 (West Africa Standard Time) | Failed to import project configuration
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:173593
+    at _rejected (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:864:24)
+    at /Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:890:30
+    at Promise.when (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:1142:31)
+    at Promise.promise.promiseDispatch (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:808:41)
+    at /Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:624:44
+    at runSingle (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:137:13)
+    at flush (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:125:13)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11) Info | BuilderEditor | saveFile | Sun May 17 2020, 21:58:41 GMT+0100 (West Africa Standard Time) | saved file /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/src/pages/landing/Landing.js
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 21:58:42 GMT+0100 (West Africa Standard Time) | saved file /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/src/pages/landing/Landing.js
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 22:01:03 GMT+0100 (West Africa Standard Time) | saved file /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/src/pages/landing/Landing.js
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 22:01:04 GMT+0100 (West Africa Standard Time) | saved file /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/src/pages/landing/Landing.js
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 22:01:51 GMT+0100 (West Africa Standard Time) | saved file /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/src/pages/landing/Landing.js
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 22:01:52 GMT+0100 (West Africa Standard Time) | saved file /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/src/pages/landing/Landing.js
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:01:57 GMT+0100 (West Africa Standard Time) | info Found Xcode workspace "covid19.xcworkspace"
+
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:01:57 GMT+0100 (West Africa Standard Time) | info Building (using "xcodebuild -workspace covid19.xcworkspace -configuration Debug -scheme covid19 -destination id=4CFE19FB-3EB8-41FE-B584-F0D7CDB3D1D9")
+
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:00 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:00 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:02 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:02 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:02 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:04 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:07 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:07 GMT+0100 (West Africa Standard Time) | ................................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:07 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:07 GMT+0100 (West Africa Standard Time) | ...............................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:07 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:07 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:07 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:07 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:13 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:13 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:13 GMT+0100 (West Africa Standard Time) | ......
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:13 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:13 GMT+0100 (West Africa Standard Time) | ................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:30 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:30 GMT+0100 (West Africa Standard Time) | .............................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:30 GMT+0100 (West Africa Standard Time) | .............................................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:30 GMT+0100 (West Africa Standard Time) | .................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:30 GMT+0100 (West Africa Standard Time) | ............................................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:30 GMT+0100 (West Africa Standard Time) | .........................................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:30 GMT+0100 (West Africa Standard Time) | .......
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:30 GMT+0100 (West Africa Standard Time) | ...............................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:30 GMT+0100 (West Africa Standard Time) | ....................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:30 GMT+0100 (West Africa Standard Time) | ......................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:30 GMT+0100 (West Africa Standard Time) | ..................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:30 GMT+0100 (West Africa Standard Time) | .......................................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:30 GMT+0100 (West Africa Standard Time) | ..................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:30 GMT+0100 (West Africa Standard Time) | ...................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:30 GMT+0100 (West Africa Standard Time) | ......................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:31 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:31 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:31 GMT+0100 (West Africa Standard Time) | ............................................................................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:32 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:32 GMT+0100 (West Africa Standard Time) | ......
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:33 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:33 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:34 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:35 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:35 GMT+0100 (West Africa Standard Time) | ..........
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:35 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:37 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:37 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:38 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:38 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:38 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:02:38 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:02 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:02 GMT+0100 (West Africa Standard Time) | ......................................................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:02 GMT+0100 (West Africa Standard Time) | .......................................................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:04 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:04 GMT+0100 (West Africa Standard Time) | ...............
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:06 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:06 GMT+0100 (West Africa Standard Time) | ......
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:07 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:07 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:07 GMT+0100 (West Africa Standard Time) | ............
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:07 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:09 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:09 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:10 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:10 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:15 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:15 GMT+0100 (West Africa Standard Time) | .....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:16 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:16 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:17 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:17 GMT+0100 (West Africa Standard Time) | ...................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:17 GMT+0100 (West Africa Standard Time) | ....................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:17 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:17 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:21 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:21 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:25 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:25 GMT+0100 (West Africa Standard Time) | ...........
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:27 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:27 GMT+0100 (West Africa Standard Time) | .....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:27 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:27 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:28 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:28 GMT+0100 (West Africa Standard Time) | ........
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:30 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:30 GMT+0100 (West Africa Standard Time) | .........
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:33 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:33 GMT+0100 (West Africa Standard Time) | .................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:35 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:35 GMT+0100 (West Africa Standard Time) | ....................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:35 GMT+0100 (West Africa Standard Time) | .......................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:38 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:38 GMT+0100 (West Africa Standard Time) | ........
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:39 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:39 GMT+0100 (West Africa Standard Time) | ........
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:39 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:39 GMT+0100 (West Africa Standard Time) | ....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:41 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:41 GMT+0100 (West Africa Standard Time) | ....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:42 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:42 GMT+0100 (West Africa Standard Time) | .........
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:44 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:44 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:46 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:46 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:53 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:53 GMT+0100 (West Africa Standard Time) | .................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:54 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:55 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:56 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:56 GMT+0100 (West Africa Standard Time) | ....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:57 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:57 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:59 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:03:59 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:02 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:02 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:04 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:04 GMT+0100 (West Africa Standard Time) | ..........................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:10 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:10 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:12 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:12 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | ........................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | ........
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | ....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | ......
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | ................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | ...............................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | ....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | ..................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | ..........................................................................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | .................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | .............
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:04:13 GMT+0100 (West Africa Standard Time) | .....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:07:28 GMT+0100 (West Africa Standard Time) | ..............................................................................................................................................................................................................................................................
+info Installing "/Users/paulopinto/Library/Developer/Xcode/DerivedData/covid19-fqfprzacdjxnzxgbnohpvqscydua/Build/Products/Debug-iphonesimulator/covid19.app"
+info Launching "org.reactjs.native.example.covid19"
+success Successfully launched the app on the simulator
+
+Success | IonicTopBar | runApp | Sun May 17 2020, 22:07:28 GMT+0100 (West Africa Standard Time) | Check out your App on simulator
+ Info | settingsDB | getByType | Sun May 17 2020, 22:08:05 GMT+0100 (West Africa Standard Time) | getByType returned null
+ Info | settingsDB | getByType | Sun May 17 2020, 22:08:05 GMT+0100 (West Africa Standard Time) | getByType returned [object Object]
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 22:12:27 GMT+0100 (West Africa Standard Time) | saved file /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm%20mobilefirst/covid19/reactnative/covid19/src/pages/landing/Landing.js
+ Info | settingsDB | getByType | Sun May 17 2020, 22:14:50 GMT+0100 (West Africa Standard Time) | getByType returned null
+ Info | settingsDB | getByType | Sun May 17 2020, 22:14:50 GMT+0100 (West Africa Standard Time) | getByType returned [object Object]
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 22:21:53 GMT+0100 (West Africa Standard Time) | saved file /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/src/pages/stats/Stats.js
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 22:21:56 GMT+0100 (West Africa Standard Time) | saved file /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/src/pages/stats/Stats.js
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 22:21:56 GMT+0100 (West Africa Standard Time) | saved file /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/src/pages/stats/Stats.js
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 22:22:00 GMT+0100 (West Africa Standard Time) | saved file /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/src/pages/stats/Stats.js
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 22:24:16 GMT+0100 (West Africa Standard Time) | saved file /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/src/pages/stats/Stats.js
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 22:24:19 GMT+0100 (West Africa Standard Time) | saved file /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/src/pages/stats/Stats.js
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 22:24:20 GMT+0100 (West Africa Standard Time) | saved file /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/src/pages/stats/Stats.js
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 22:24:29 GMT+0100 (West Africa Standard Time) | saved file /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/src/pages/stats/Stats.js
+ Info | settingsDB | getByType | Sun May 17 2020, 22:31:29 GMT+0100 (West Africa Standard Time) | getByType returned null
+ Info | settingsDB | getByType | Sun May 17 2020, 22:31:29 GMT+0100 (West Africa Standard Time) | getByType returned [object Object]
+ Info | settingsDB | getByType | Sun May 17 2020, 22:33:14 GMT+0100 (West Africa Standard Time) | getByType returned [object Object]
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 22:33:43 GMT+0100 (West Africa Standard Time) | saved file /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm%20mobilefirst/covid19/reactnative/covid19/src/pages/chatbot/Chatbot.js
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 22:33:44 GMT+0100 (West Africa Standard Time) | saved file /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm%20mobilefirst/covid19/reactnative/covid19/src/pages/chatbot/Chatbot.js
+ Info | settingsDB | getByType | Sun May 17 2020, 22:33:45 GMT+0100 (West Africa Standard Time) | getByType returned null
+ Info | settingsDB | getByType | Sun May 17 2020, 22:33:45 GMT+0100 (West Africa Standard Time) | getByType returned [object Object]
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 22:34:48 GMT+0100 (West Africa Standard Time) | saved file null
+ Info | BuilderEditor | saveFile | Sun May 17 2020, 22:34:49 GMT+0100 (West Africa Standard Time) | saved file null
+ Info | projectHandler | loadProjectDatabase | Sun May 17 2020, 22:38:19 GMT+0100 (West Africa Standard Time) | Initializing DBs for workspace  /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19
+ Info | datasourceDB | init | Sun May 17 2020, 22:38:19 GMT+0100 (West Africa Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Sun May 17 2020, 22:38:19 GMT+0100 (West Africa Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Sun May 17 2020, 22:38:19 GMT+0100 (West Africa Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Sun May 17 2020, 22:38:19 GMT+0100 (West Africa Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Sun May 17 2020, 22:38:19 GMT+0100 (West Africa Standard Time) | App DB initialized
+ Info | settingsDB | init | Sun May 17 2020, 22:38:19 GMT+0100 (West Africa Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Sun May 17 2020, 22:38:19 GMT+0100 (West Africa Standard Time) | Initialized all the DBs
+ Error | ImportExportConfig | importConfiguration | Sun May 17 2020, 22:38:45 GMT+0100 (West Africa Standard Time) | Failed to import project configuration
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:173593
+    at _rejected (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:864:24)
+    at /Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:890:30
+    at Promise.when (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:1142:31)
+    at Promise.promise.promiseDispatch (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:808:41)
+    at /Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:624:44
+    at runSingle (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:137:13)
+    at flush (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:125:13)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11) Info | settingsDB | getByType | Sun May 17 2020, 22:39:19 GMT+0100 (West Africa Standard Time) | getByType returned null
+ Info | settingsDB | getByType | Sun May 17 2020, 22:39:19 GMT+0100 (West Africa Standard Time) | getByType returned [object Object]
+ Info | projectHandler | loadProjectDatabase | Sun May 17 2020, 22:49:09 GMT+0100 (West Africa Standard Time) | Initializing DBs for workspace  /Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19
+ Info | datasourceDB | init | Sun May 17 2020, 22:49:09 GMT+0100 (West Africa Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Sun May 17 2020, 22:49:09 GMT+0100 (West Africa Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Sun May 17 2020, 22:49:09 GMT+0100 (West Africa Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Sun May 17 2020, 22:49:09 GMT+0100 (West Africa Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Sun May 17 2020, 22:49:09 GMT+0100 (West Africa Standard Time) | App DB initialized
+ Info | settingsDB | init | Sun May 17 2020, 22:49:09 GMT+0100 (West Africa Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Sun May 17 2020, 22:49:09 GMT+0100 (West Africa Standard Time) | Initialized all the DBs
+ Error | ImportExportConfig | importConfiguration | Sun May 17 2020, 22:49:35 GMT+0100 (West Africa Standard Time) | Failed to import project configuration
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:173593
+    at _rejected (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:864:24)
+    at /Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:890:30
+    at Promise.when (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:1142:31)
+    at Promise.promise.promiseDispatch (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:808:41)
+    at /Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:624:44
+    at runSingle (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:137:13)
+    at flush (/Applications/IBM Digital App Builder.app/Contents/Resources/app.asar/node_modules/mf-server-commands/node_modules/q/q.js:125:13)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11) Info | IonicTopBar | runApp | Sun May 17 2020, 22:49:55 GMT+0100 (West Africa Standard Time) | info Found Xcode workspace "covid19.xcworkspace"
+
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:49:58 GMT+0100 (West Africa Standard Time) | info Launching iPhone 11 (iOS 13.4)
+
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:10 GMT+0100 (West Africa Standard Time) | info Building (using "xcodebuild -workspace covid19.xcworkspace -configuration Debug -scheme covid19 -destination id=4CFE19FB-3EB8-41FE-B584-F0D7CDB3D1D9")
+
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:12 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:12 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:14 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:14 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:15 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:17 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:21 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:25 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:25 GMT+0100 (West Africa Standard Time) | ...............................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:26 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:27 GMT+0100 (West Africa Standard Time) | .....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:27 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:28 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:28 GMT+0100 (West Africa Standard Time) | ......
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:28 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:28 GMT+0100 (West Africa Standard Time) | .......
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:30 GMT+0100 (West Africa Standard Time) | ............................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:32 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:32 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:32 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:32 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:35 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:35 GMT+0100 (West Africa Standard Time) | .......................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:35 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:40 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:40 GMT+0100 (West Africa Standard Time) | ................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:42 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:42 GMT+0100 (West Africa Standard Time) | .......
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:42 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:42 GMT+0100 (West Africa Standard Time) | ....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:44 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:44 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:45 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:45 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:45 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:45 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:45 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:48 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:48 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:50:48 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:12 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:12 GMT+0100 (West Africa Standard Time) | ...................................................................................................................................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:12 GMT+0100 (West Africa Standard Time) | ....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:12 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:12 GMT+0100 (West Africa Standard Time) | .....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:13 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:13 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:16 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:16 GMT+0100 (West Africa Standard Time) | .............
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:18 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:18 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:19 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:19 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:21 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:21 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:21 GMT+0100 (West Africa Standard Time) | ..........
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:21 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:21 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:26 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:26 GMT+0100 (West Africa Standard Time) | ..............
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:29 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:29 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:30 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:30 GMT+0100 (West Africa Standard Time) | ....................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:30 GMT+0100 (West Africa Standard Time) | ........
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:30 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:30 GMT+0100 (West Africa Standard Time) | ....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:34 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:34 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:37 GMT+0100 (West Africa Standard Time) | ................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:37 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:37 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:39 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:39 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:40 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:40 GMT+0100 (West Africa Standard Time) | ......
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:40 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:40 GMT+0100 (West Africa Standard Time) | ........
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:43 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:43 GMT+0100 (West Africa Standard Time) | .......
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:45 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:45 GMT+0100 (West Africa Standard Time) | ..................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:47 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:47 GMT+0100 (West Africa Standard Time) | .................................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:47 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:47 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:49 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:49 GMT+0100 (West Africa Standard Time) | ..........
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:50 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:50 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:50 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:50 GMT+0100 (West Africa Standard Time) | .....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:51 GMT+0100 (West Africa Standard Time) | ......
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:51 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:52 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:52 GMT+0100 (West Africa Standard Time) | ....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:52 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:51:52 GMT+0100 (West Africa Standard Time) | .....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:02 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:02 GMT+0100 (West Africa Standard Time) | ....................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:04 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:04 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:05 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:05 GMT+0100 (West Africa Standard Time) | ....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:06 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:06 GMT+0100 (West Africa Standard Time) | ....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:06 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:06 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:10 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:10 GMT+0100 (West Africa Standard Time) | ..............................................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:18 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:18 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | ...............
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | ..............................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | ......................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | ........................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | .......................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | ...................................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | ...............................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | ..........................................................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | ...............
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | .....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | ..........
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | ...................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:24 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:25 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:25 GMT+0100 (West Africa Standard Time) | ........
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:25 GMT+0100 (West Africa Standard Time) | ......
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:27 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:27 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:27 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:27 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:27 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:27 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:27 GMT+0100 (West Africa Standard Time) | ....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:27 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:27 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:27 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:27 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:27 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:30 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:30 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:30 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:30 GMT+0100 (West Africa Standard Time) | ......
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:33 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:33 GMT+0100 (West Africa Standard Time) | .......
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:33 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:33 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:33 GMT+0100 (West Africa Standard Time) | ........
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:36 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:36 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:36 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:36 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ................
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ...........
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | .....
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ...
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:37 GMT+0100 (West Africa Standard Time) | ..
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:38 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:38 GMT+0100 (West Africa Standard Time) | .
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:38 GMT+0100 (West Africa Standard Time) | 
+
+ Error | IonicTopBar | runApp | Sun May 17 2020, 22:52:41 GMT+0100 (West Africa Standard Time) | 2020-05-17 22:52:40.113 xcodebuild[2841:29899]  DTDeviceKit: deviceType from de8996a4032f330d5fe41ff687762c101aa83bdd was NULL
+2020-05-17 22:52:40.217 xcodebuild[2841:29903]  DTDeviceKit: deviceType from de8996a4032f330d5fe41ff687762c101aa83bdd was NULL
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:4317:1178)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:41 GMT+0100 (West Africa Standard Time) | info Installing "/Users/paulopinto/Library/Developer/Xcode/DerivedData/covid19-fqfprzacdjxnzxgbnohpvqscydua/Build/Products/Debug-iphonesimulator/covid19.app"
+
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:43 GMT+0100 (West Africa Standard Time) | info Launching "org.reactjs.native.example.covid19"
+
+ Info | IonicTopBar | runApp | Sun May 17 2020, 22:52:44 GMT+0100 (West Africa Standard Time) | success Successfully launched the app on the simulator
+
+Success | IonicTopBar | runApp | Sun May 17 2020, 22:52:44 GMT+0100 (West Africa Standard Time) | Check out your App on simulator
+ Info | FontManager | removeFont | Sun May 17 2020, 22:55:22 GMT+0100 (West Africa Standard Time) | Font has been removed succcessfully

@@ -1,20 +1,18 @@
 {
-  "server": {
-    "mfpUrl": "http://127.0.0.1:9080",
-    "serverName": "MobileFoundation",
-    "confidentialServerUrl": "/mfp/api/az/v1/token"
-  },
+  "server": {},
   "type": "reactnative",
+  "isAppAuth": false,
   "platforms": [
     "ios"
   ],
-  "isAppAuth": false,
   "isEncrypt": false,
-  "projectIcon": "/Users/chethankumar/projects/videos/devworks-1/covid19/reactnative/covid19/resources/icon.png",
+  "isPush": false,
   "projectName": "covid19",
+  "projectIcon": "/Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst/covid19/reactnative/covid19/resources/icon.png",
   "projectVersion": "1.0",
   "projectBundleId": "com.covid",
-  "isAnalyticsEnabled": true,
+  "projectLocation": "/Users/paulopinto/Projects/equilibrium/ito/mobile/ibm mobilefirst",
+  "isAnalyticsEnabled": false,
   "isLiveUpdateEnabled": false,
   "projectMode": "code"
 }

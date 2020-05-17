@@ -4,3 +4,6 @@ include ':app'
 
 include ':react-native-bridge'
 project(':react-native-bridge').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-ibm-mobilefirst/android/react-native-bridge')
+
+include ':react-native-bridge'
+project(':react-native-bridge').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-ibm-mobilefirst/android/react-native-bridge')

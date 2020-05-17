@@ -19,7 +19,7 @@ class Chatbot extends React.Component {
     super(props);
     this.url = 'https://gateway-syd.watsonplatform.net/assistant/api';
     this.iam_apikey = '';
-    this.workspaceId = 'd1fa845d-d55d-4c33-a8e8-c8a44984aa8e';
+    this.workspaceId = 'af488e4c-4c84-405f-8dd7-b97747f0c314';
     this.watson = new WatsonChat();
     this.watson.init(this.url, this.iam_apikey, this.workspaceId, true);
 

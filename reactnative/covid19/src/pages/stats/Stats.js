@@ -15,7 +15,7 @@ export class Stats extends React.Component {
     };
   }
   componentDidMount() {
-    getStatsForCountry('India').then(
+    getStatsForCountry('Angola').then(
       ({ confirmed, recovered, fatal, active }) => {
         this.setState({ confirmed, recovered, fatal, active });
       }
@@ -28,27 +28,27 @@ export class Stats extends React.Component {
           <View style={styles.skewContainer} />
           <View style={styles.skewContainerTwo} />
           <View style={styles.textContainer}>
-            <Text style={styles.title}>Statistics</Text>
-            <Text style={styles.country}>India</Text>
+            <Text style={styles.title}>Estatísticas</Text>
+            <Text style={styles.country}>Angola</Text>
           </View>
           <View style={styles.statContainer}>
             <View style={styles.statRow}>
               <View style={styles.confirmed}>
-                <Text style={styles.statTitle}>Confirmed</Text>
+                <Text style={styles.statTitle}>Confirmados</Text>
                 <Text style={styles.statNumber}>{this.state.confirmed}</Text>
               </View>
               <View style={styles.recovered}>
-                <Text style={styles.statTitle}>Recovered</Text>
+                <Text style={styles.statTitle}>Recuperados</Text>
                 <Text style={styles.statNumber}>{this.state.recovered}</Text>
               </View>
             </View>
             <View style={styles.statRow}>
               <View style={styles.active}>
-                <Text style={styles.statTitle}>Active</Text>
+                <Text style={styles.statTitle}>Activos</Text>
                 <Text style={styles.statNumber}>{this.state.active}</Text>
               </View>
               <View style={styles.fatal}>
-                <Text style={styles.statTitle}>Fatal</Text>
+                <Text style={styles.statTitle}>Óbitos</Text>
                 <Text style={styles.statNumber}>{this.state.fatal}</Text>
               </View>
             </View>
